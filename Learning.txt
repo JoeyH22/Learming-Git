@@ -1,3 +1,5 @@
 This is my first time using github.
 Very easy to use
 It seems cool
+Now I'm on a branch 
+How cool
