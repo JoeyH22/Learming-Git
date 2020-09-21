@@ -3,3 +3,5 @@ Very easy to use
 It seems cool
 Now I'm on a branch 
 How cool
+This is the second branch
+AMAZING!!!
